@@ -1,6 +1,6 @@
 const pointsKey = "zielnik-points";
 const challengeKey = "zielnik-challenge-completed";
-const challengeButton = document.querySelector("#challenge-buton");
+const challengeButton = document.querySelector("#challenge-button");
 const pointLabels = [
   document.querySelector("#header-points"),
   document.querySelector("#total-points"),
